@@ -1,0 +1,8 @@
+EXPORTS
+DPI_gm_rampa_ref_initialize
+DPI_gm_rampa_ref_output
+DPI_gm_rampa_ref_update
+DPI_gm_rampa_ref_terminate
+
+
+gm_rampa_ref_GetCAPIStaticMap
